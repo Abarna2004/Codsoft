@@ -2,6 +2,8 @@
 
 ## 1) Movie Genre Classification
 
+Technology Stack: Python, Scikit-learn, Pandas, Numpy, TF-IDF, Logistic Regression, Naive Bayes
+
 In this project, you will build a machine learning model to classify movies into various genres based on their descriptions. The dataset contains movie titles, genres, ratings, and descriptions.
 
 - **Dataset**: Contains movie details such as name, genre, rating, director, and actors.
@@ -21,6 +23,8 @@ In this project, you will build a machine learning model to classify movies into
 
 ## 2) Spam Detection
 
+Technology Stack: Python, Scikit-learn, Pandas, TF-IDF, Logistic Regression
+
 This project focuses on classifying SMS messages as either spam or ham (legitimate). Using a labeled dataset of SMS messages, you will train a model that can predict whether a given message is spam.
 
 - **Dataset**: The dataset consists of SMS messages labeled as "ham" (legitimate) or "spam."
@@ -39,6 +43,8 @@ This project focuses on classifying SMS messages as either spam or ham (legitima
 ---
 
 ## 3) Customer Churn Prediction
+
+Technology Stack: Python, Pandas, Scikit-learn, Random Forest, StandardScaler
 
 In this project, you will predict customer churn for a telecommunications company based on various customer attributes. The goal is to classify customers into two categories: those who are likely to churn and those who are likely to stay.
 
